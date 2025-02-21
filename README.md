@@ -1,4 +1,4 @@
-![管理员1](https://github.com/user-attachments/assets/a8dd3ee3-f3d4-438a-92b6-80f1308945cf)# mindcare情绪分析
+# mindcare情绪分析
 对一段时间内的人的表情进行分析的情绪管理系统，主要作用为对用户的一段时间内的表情数据进行分析，并给出合理化建议。
 项目介绍
 MindCare 是一个心理健康助手应用，旨在为用户提供情绪分析、心理咨询、心灵社区等功能。该项目采用了现代的前后端分离架构，前端使用 Vue.js 和 Element Plus，后端使用 Spring Boot 和 MySQL 数据库。
